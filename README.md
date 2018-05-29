@@ -1,4 +1,4 @@
-# Omnifoods-
+# Omnifoods
 Fictional company website concept. Omnifoods is a company that you can subscribe to get recipes and ingredients shipped to your door for a monthly or per meal subscription. Website includes header with navigation, information and descrription of service, gallery, mobile app steps, locations, testimonials, pricing, contact form, and a footer. 
 
 # Environment 
